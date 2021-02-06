@@ -1,7 +1,7 @@
 <?php 
 
 try{
-$db = new PDO("mysql:host=sql213.epizy.com;dbname=epiz_25056013_waypoint;charset=utf8","epiz_25056013","XVg2Hz162wCV6Ph");
+$db = new PDO("mysql:host=sql113.epizy.com;dbname=25057013_waypoint;charset=utf8","25056013","passh");
 }catch(PDOException $mesaj){
 	
 	
